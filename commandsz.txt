@@ -3,3 +3,11 @@ git init // for initializing git
 git add -A
 
 git status
+
+git commit
+
+git push
+
+git pull
+
+git clone
