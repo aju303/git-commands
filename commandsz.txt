@@ -1,0 +1,5 @@
+git init // for initializing git
+
+git add -A
+
+git status
